@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95027612427",
+    "project_id": "beerapp-celi5383",
+    "storage_bucket": "beerapp-celi5383.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95027612427:android:4bafef42ad5f7e65e5700e",
+        "android_client_info": {
+          "package_name": "com.example.beerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFOkrCSAmn4wH0SF7VcLP2EEDoyAha9Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
